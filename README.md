@@ -37,6 +37,15 @@
 </p>
 <br>
 
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsojan&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="paulsojan"/>	
+</div>
+<br>
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">

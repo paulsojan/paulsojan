@@ -19,7 +19,6 @@
 
 <p align="center">
 <a><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="react"></a>
-<a><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react-native"></a>
 <a><img src="https://img.shields.io/badge/nodejs-68A063.svg?style=for-the-badge&logo=node.js&logoColor=black" alt="nodejs"></a>
 <a><img src="https://img.shields.io/badge/rails-D51F06.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=black" alt="rails"></a>
 <a><img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"></a>

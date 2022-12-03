@@ -27,6 +27,8 @@
 <p align="center">
 <a><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="git"></a>
 <a><img src="https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
+<a><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="firebase"></a>
+
 </p> <br>
 
 <p align="center">
